@@ -1,6 +1,6 @@
 Olá 👋
 
-Sou Pedro Barboza, um Desenvolvedor Web FullStack, e minhas experiências são construídas a partir das minhas contribuições em projetos práticos.
+Sou Pedro Barboza, um Desenvolvedor Web FullStack, e minhas experiências são construídas a partir dos meus projetos e contribuições.
 
 Adoro desafios e minha meta é aprender cada vez mais e contribuir para a comunidade com produtos facilitadores.
 
