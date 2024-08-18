@@ -4,7 +4,7 @@ Sou Pedro Barboza, um Desenvolvedor Web FullStack, e minhas experiências são c
 
 Adoro desafios e minha meta é aprender cada vez mais e agregar à comunidade usando minhas habilidades.
 
-Com minha persistência, consegui uma bolsa de estudos integral em Ciências da Computação na Gran Faculdade e participei de um bootcamp, onde tive a oportunidade de acelerar meu processo de conhecimento, me tornar um desenvolvedor FullStack e criar projetos reais.
+Com minha persistência, consegui uma bolsa de estudos integral em Ciências da Computação na Gran Faculdade e participei de um bootcamp, onde tive a oportunidade de acelerar meu processo de conhecimento, me tornar um desenvolvedor FullStack e criando projetos reais.
 <br/>
 
 <br/><div align="center" style="margin-bottom:100px">
