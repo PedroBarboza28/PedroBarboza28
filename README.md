@@ -12,9 +12,9 @@ Com minha persistência, consegui uma bolsa de estudos integral em Ciências da 
   <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrobarboza28&layout=compact&langs_count=8&card_width=320&theme=blueberry" />
 </div><br/>
 
----
-
 ### ⚡ Tecnologias
+
+---
 
 Estas são algumas das tecnologias e ferramentas com as quais trabalho:
 
@@ -56,17 +56,16 @@ IDE:
 <div>
   <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode" />
 </div>
+<br/>
+<br/>
 
+
+### Link Para Contato:
 ##
-
-### Link Para Contato
-
 <div> 
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-##
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FA8072&height=120&section=footer"/>
