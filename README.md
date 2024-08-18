@@ -1,4 +1,4 @@
-Olá 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Play&vCenter=true&left=true&size=40&pause=1000&color=FFF&width=1000&height=65&lines=Ol%C3%A1+%F0%9F%91%8B+Seja+Bem-Vindo(a)+!+)](https://git.io/typing-svg)
 
 Sou Pedro Barboza, um Desenvolvedor Web FullStack, e minhas experiências são construídas a partir dos meus projetos e contribuições.
 
