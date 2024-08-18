@@ -15,8 +15,9 @@ Com minha persistência, consegui uma bolsa de estudos integral em Ciências da 
 ---
 ## ⚡ Tecnologias
 
-Estas são algumas das tecnologias e ferramentas com as quais trabalho:
-
+Estas são algumas das tecnologias e ferramentas com as quais trabalho:<br/>
+<br/>
+### Tools:
 <div>
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub" />
@@ -28,7 +29,7 @@ Estas são algumas das tecnologias e ferramentas com as quais trabalho:
   <img src="https://github.com/pedrobarboza28/pedrobarboza28/raw/main/imagem-removebg-preview.png" width="400px" align="right" alt="Imagem 2">
 </div>
 
-Frontend:  
+### Frontend:  
 <div>
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
@@ -38,20 +39,20 @@ Frontend:
   <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
 </div>
 
-Backend:  
+### Backend:  
 <div>
   <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/-Jest-99424F?style=flat-square&logo=jest&logoColor=white" alt="Jest" />
 </div>
 
-Banco de Dados:  
+### Banco de Dados:  
 <div>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </div>
 
-IDE:  
+### IDE:  
 <div>
   <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode" />
 </div>
