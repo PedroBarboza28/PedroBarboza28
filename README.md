@@ -12,9 +12,8 @@ Com minha persistência, consegui uma bolsa de estudos integral em Ciências da 
   <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrobarboza28&layout=compact&langs_count=8&card_width=320&theme=blueberry" />
 </div><br/>
 
-### ⚡ Tecnologias
-
 ---
+## ⚡ Tecnologias
 
 Estas são algumas das tecnologias e ferramentas com as quais trabalho:
 
