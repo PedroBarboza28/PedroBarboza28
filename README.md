@@ -1,5 +1,3 @@
-
-
 Olá 👋
 
 Sou Pedro Barboza, um Desenvolvedor Web FullStack, e minhas experiências são construídas a partir das minhas contribuições em projetos práticos.
@@ -20,7 +18,6 @@ Com minha persistência, consegui uma bolsa de estudos integral em Ciências da 
 
 Estas são algumas das tecnologias e ferramentas com as quais trabalho:
 
-Tools:
 <div>
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub" />
@@ -29,6 +26,7 @@ Tools:
   <img src="https://img.shields.io/badge/-Render-4F5D95?style=flat-square&logo=render&logoColor=white" alt="Render" />
   <img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger" />
   <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion" />
+  <img src="https://github.com/pedrobarboza28/pedrobarboza28/raw/main/imagem-removebg-preview.png" width="400px" align="right" alt="Imagem 2">
 </div>
 
 Frontend:  
@@ -48,17 +46,18 @@ Backend:
   <img src="https://img.shields.io/badge/-Jest-99424F?style=flat-square&logo=jest&logoColor=white" alt="Jest" />
 </div>
 
-Banco de Dados:
-
-  <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+Banco de Dados:  
+<div>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-
+  <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</div>
 
 IDE:  
 <div>
   <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode" />
 </div>
 
+##
 
 ### Link Para Contato
 
@@ -67,3 +66,5 @@ IDE:
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+##
