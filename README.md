@@ -26,6 +26,7 @@ Estas são algumas das tecnologias e ferramentas com as quais trabalho:<br/>
   <img src="https://img.shields.io/badge/-Render-4F5D95?style=flat-square&logo=render&logoColor=white" alt="Render" />
   <img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger" />
   <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion" />
+</div>
 
 ### Frontend:  
 <div>
